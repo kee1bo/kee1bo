@@ -1,19 +1,15 @@
 - 👋 Hi, I’m @kee1bo
-  - Passionate Computer Science Engineer with interests all over the place. But I spent some extra time 
-    trying to gain expertise in certain areas. 
+- I am a recent Computer Science Graduate and an aspiring Machine engineer interested in building Natural Language                 Processing Language Models, and in research topics like Computational Complexity, Natural Language Processing. 
+
     
 - 👀 Interests:
   - Machine Learning
   - Deep Learning
   - Computer Vision
   - Natural Language Processing
-  - Vision Language
-  - Quantum Computing
-- 🌱 I’m currently learning:
-  - Computer Vision
-  - Natural Language Processing
-  - Vision Language
-  - Julia lang 
+  - Computational Complexity
+  
+
 - My Project Portfolio
   - Below are some projects which I have done on different topics.
   -   
