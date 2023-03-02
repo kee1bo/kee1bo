@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @kee1bo
+- Hi, I’m @kee1bo
 - I am a recent Computer Science Graduate and an aspiring Machine engineer interested in building Natural Language                 Processing Language Models, and in research topics like Computational Complexity, Natural Language Processing. 
 
     
-- 👀 Interests:
+- Interests:
   - Machine Learning
   - Deep Learning
   - Computer Vision
   - Natural Language Processing
   - Computational Complexity
+  - Algorithms
   
 
 - My Project Portfolio
