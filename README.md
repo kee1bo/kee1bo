@@ -9,10 +9,32 @@
   - Natural Language Processing
   - Computational Complexity
   - Algorithms
+
+- Technologies:
   
+  - WEB-DEV
+    - MongoDB
+    - Express
+    - Node
+    - React
+    - Javascript
+    - HTML
+    - CSS
+  - Machine Learning
+    - Python
+    - Pytorch
+    - Tensorflow
+    - nltk
+    - matplotlib.pyplot
+    - seaborn
+    - pandas
+    - numpy
+    
+    - Julia
 
 - My Project Portfolio
   - Below are some projects which I have done on different topics.
+  - 
   -   
 - 📫 How to reach me ...
 - Linkedin: https://www.linkedin.com/in/neerudi-sai-vikas-721349226
