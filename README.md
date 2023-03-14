@@ -19,7 +19,7 @@
     - React
     - Javascript
     - HTML
-    - CSS
+    - Tailwind
   - Machine Learning
     - Python
     - Pytorch
