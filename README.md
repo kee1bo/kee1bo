@@ -19,7 +19,7 @@
   -   
 - 📫 How to reach me ...
 - Linkedin: https://www.linkedin.com/in/neerudi-sai-vikas-721349226
-- https://nsaivikas.com/
+- https://saivikas.work/
 
 
 <!---
